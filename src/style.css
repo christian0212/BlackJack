@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0px;
+  background-color: green;
+  color: white;
+
+}
+
+.titulo {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+
+}
+
+.subtitulo {
+  color: white;
+  margin-left: 25px;
+
+}
+
+.subtitulo small {
+  color: white;
+  font-size: 30px;
+}
+
+
+.carta {
+  position: relative;
+  width: 100px;
+  left: 70px;
+  margin-top: 20px;
+  margin-left: -50px;
+
+}
+
+#jugador-cartas,
+#computadora-cartas {
+
+  position: relative;
+  height: 180px;
+
+}
